@@ -1,7 +1,7 @@
 # Mitigating Exposure Bias in Score-Based Generation of Molecular Conformations   
 
-Implementation of [Mitigating Exposure Bias in Score-Based Generation of Molecular Conformations   
-](https://arxiv.org/abs/2206.01729) 
+Implementation of Mitigating Exposure Bias in Score-Based Generation of Molecular Conformations   
+
 This repository is based on [Torsional Diffsuion](https://github.com/gcorso/torsional-diffusion) , with training modification of input perturbation.
 
 ## Input Perturbation in Torsional Diffusion
